@@ -15,7 +15,7 @@
 
 <a href="https://baimuratergeshov.github.io"><img src="https://img.shields.io/badge/Portfolio-baimuratergeshov.github.io-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:baimurat.ergeshov123@gmail.com"><img src="https://img.shields.io/badge/Email-Me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/baimurat-ergeshov"><img src="https://img.shields.io/badge/LinkedIn-Baimurat%20Ergeshov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/baimurat-ergeshov-29b9013a7"><img src="https://img.shields.io/badge/LinkedIn-Baimurat%20Ergeshov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
