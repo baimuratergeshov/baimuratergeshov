@@ -137,18 +137,6 @@ Ma veille porte sur l'**accessibilité numérique** : rendre le web utilisable p
 
 </div>
 
-### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%23e05252" height="24" align="top" alt="" /> Mes contributions, en jeu
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/output/breakout-contribution-graph.svg">
-  <img alt="Mes contributions sous forme de casse-briques" src="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/output/breakout-contribution-graph.svg" width="100%" />
-</picture>
-
-</div>
-
 ### <img src="https://api.iconify.design/lucide:mail.svg?color=%23e05252" height="24" align="top" alt="" /> Me contacter
 
 <div align="center">
