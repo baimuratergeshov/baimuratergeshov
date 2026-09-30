@@ -159,23 +159,19 @@ Site personnel en HTML5, Tailwind et JavaScript natif : 100 % navigable au clavi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=baimuratergeshov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Stats GitHub" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baimuratergeshov&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Langages les plus utilisés" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=baimuratergeshov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Stats GitHub" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=baimuratergeshov&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Langages les plus utilisés" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=baimuratergeshov&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=baimuratergeshov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophées" />
 
 </div>
 
 ### <img src="https://api.iconify.design/lucide:activity.svg?color=%238B5CF6" height="26" align="top" alt="" /> Activité
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baimuratergeshov&theme=tokyo-night&hide_border=true&area=true" alt="Graphique d'activité" />
+  <img src="https://ghchart.rshah.org/8B5CF6/baimuratergeshov" alt="Calendrier de contributions" width="90%" />
 </div>
 
 ---
