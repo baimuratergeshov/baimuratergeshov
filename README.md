@@ -1,7 +1,7 @@
 <!-- Header animé -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Baimurat%20Ergeshov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Étudiant%20BTS%20SIO%20SLAM%20•%20Développeur%20Web%20%26%20Mobile&descAlignY=58&descSize=18" alt="Bannière Baimurat Ergeshov" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Baimurat%20Ergeshov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Étudiant%20BTS%20SIO%20SLAM%20•%20Développeur%20Web%20et%20Mobile&descAlignY=58&descSize=18" alt="Bannière Baimurat Ergeshov" />
 
 <a href="https://github.com/baimuratergeshov">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Salut,+moi+c'est+Baimurat;Étudiant+en+BTS+SIO+option+SLAM;PHP+8+%7C+MVC+%7C+MySQL+%7C+JavaScript;Je+cherche+un+stage+pour+ma+2e+année" alt="Typing SVG" />
