@@ -75,8 +75,8 @@ $baimurat = [
 ## <img src="https://api.iconify.design/lucide:rocket.svg?color=%238B5CF6" height="26" align="top" alt="" /> Projets
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### <img src="https://api.iconify.design/lucide:wrench.svg?color=%238B5CF6" height="22" align="top" alt="" /> Adyl Plombier
 Site complet en **MVC** avec panneau d'administration pour un plombier d'urgence. **En ligne depuis 2026** — réalisé lors de mon stage.
@@ -85,8 +85,8 @@ Site complet en **MVC** avec panneau d'administration pour un plombier d'urgence
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### <img src="https://api.iconify.design/lucide:clapperboard.svg?color=%238B5CF6" height="22" align="top" alt="" /> MovieDB
 Catalogue de films qui consomme l'**API TMDb** (REST / JSON).
@@ -95,10 +95,10 @@ Catalogue de films qui consomme l'**API TMDb** (REST / JSON).
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![API](https://img.shields.io/badge/API-TMDb-01B4E4?style=flat-square)
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### <img src="https://api.iconify.design/lucide:hotel.svg?color=%238B5CF6" height="22" align="top" alt="" /> Hôtel Chambord
 Site d'hôtel multi-pages réalisé **en équipe**.
@@ -108,8 +108,8 @@ Site d'hôtel multi-pages réalisé **en équipe**.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### <img src="https://api.iconify.design/lucide:users.svg?color=%238B5CF6" height="22" align="top" alt="" /> Gestion des salariés
 Application **CRUD** avec base **MySQL**.
@@ -118,10 +118,10 @@ Application **CRUD** avec base **MySQL**.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### <img src="https://api.iconify.design/lucide:clipboard-list.svg?color=%238B5CF6" height="22" align="top" alt="" /> Suivi des stagiaires
 Tableau de bord en **MVC** pour le suivi de stagiaires.
@@ -129,8 +129,8 @@ Tableau de bord en **MVC** pour le suivi de stagiaires.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MVC](https://img.shields.io/badge/Architecture-MVC-8B5CF6?style=flat-square)
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%238B5CF6" height="26" align="top" alt="" /> Pont Python ↔ PHP
 Échange de données **JSON** entre deux langages.
@@ -138,10 +138,10 @@ Tableau de bord en **MVC** pour le suivi de stagiaires.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### <img src="https://api.iconify.design/lucide:globe.svg?color=%238B5CF6" height="22" align="top" alt="" /> Portfolio
 Site personnel en HTML5, Tailwind et JavaScript natif : 100 % navigable au clavier, contrastes **WCAG AA**, respect de `prefers-reduced-motion`, pages *Stage* et *Veille technologique*.
@@ -149,8 +149,8 @@ Site personnel en HTML5, Tailwind et JavaScript natif : 100 % navigable au clavi
 [![Voir le portfolio](https://img.shields.io/badge/Voir%20le%20portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://baimuratergeshov.github.io)
 [![Repo](https://img.shields.io/badge/Code%20source-181717?style=flat-square&logo=github)](https://github.com/baimuratergeshov/baimuratergeshov.github.io)
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
@@ -202,7 +202,7 @@ Je cherche activement un **stage de 2e année** en développement web / applicat
 
 <a href="mailto:baimurat.ergeshov123@gmail.com"><img src="https://img.shields.io/badge/Email-baimurat.ergeshov123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://baimuratergeshov.github.io"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/baimurat-ergeshov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/baimurat-ergeshov-29b9013a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/><br/>
 
