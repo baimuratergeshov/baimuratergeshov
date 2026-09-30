@@ -1,7 +1,7 @@
 <!-- Header animé -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/main/assets/header.svg" alt="Baimurat Ergeshov — Étudiant BTS SIO SLAM, développeur web" width="100%" />
+<img src="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/main/assets/header.svg?v=2" alt="Baimurat Ergeshov, Étudiant BTS SIO SLAM, développeur web" width="100%" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 <?php
 $baimurat = [
     'nom'        => 'Baimurat Ergeshov',
-    'formation'  => 'BTS SIO — option SLAM (Solutions Logicielles et Applications Métiers)',
+    'formation'  => 'BTS SIO, option SLAM (Solutions Logicielles et Applications Métiers)',
     'lieu'       => 'Vert-Saint-Denis (77)',
     'approche'   => 'Comprendre les fondamentaux plutôt que copier des solutions',
     'architecture' => 'MVC',
@@ -52,18 +52,99 @@ $baimurat = [
 
 </div>
 
-- **Backend** : PHP 8, architecture MVC, MySQL / SQL
-- **Frontend** : HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap
-- **Bases de données** : Conception de schémas MySQL, opérations CRUD
-- **API** : Consommation d'API REST, manipulation de JSON
-- **Sécurité** : Requêtes préparées, CSRF, validation des entrées, bcrypt
-- **Spécialités** : SEO / Schema.org, responsive design, accessibilité
-- **Bases** : Python, Linux, Kotlin (en apprentissage)
+| Domaine | Détails |
+|---|---|
+| **Backend** | PHP 8, architecture MVC, MySQL / SQL |
+| **Frontend** | HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap |
+| **Bases de données** | Conception de schémas MySQL, opérations CRUD |
+| **API** | Consommation d'API REST, manipulation de JSON |
+| **Sécurité** | Requêtes préparées, CSRF, validation des entrées, bcrypt |
+| **Spécialités** | SEO / Schema.org, responsive design, accessibilité |
+| **Bases** | Python, Linux, Kotlin (en apprentissage) |
 
 ### <img src="https://api.iconify.design/lucide:rocket.svg?color=%238B5CF6" height="26" align="top" alt="" /> Projets
 
-#### <img src="https://api.iconify.design/lucide:wrench.svg?color=%238B5CF6" height="22" align="top" alt="" /> Adyl Plombier
-Site complet en **MVC** avec panneau d'administration pour un plombier d'urgence. **En ligne depuis 2026** — réalisé lors de mon stage.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide:wrench.svg?color=%238B5CF6" height="22" align="top" alt="" /> Adyl Plombier
+Site complet en **MVC** avec panneau d'administration pour un plombier d'urgence. **En ligne depuis 2026**, réalisé lors de mon stage.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide:clapperboard.svg?color=%238B5CF6" height="22" align="top" alt="" /> MovieDB
+Catalogue de films qui consomme l'**API TMDb** (REST / JSON).
+
+[![Repo](https://img.shields.io/badge/Voir%20le%20repo-181717?style=flat-square&logo=github)](https://github.com/baimuratergeshov/movieDB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![API](https://img.shields.io/badge/API-TMDb-01B4E4?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide:hotel.svg?color=%238B5CF6" height="22" align="top" alt="" /> Hôtel Chambord
+Site d'hôtel multi-pages réalisé **en équipe**.
+
+[![Repo](https://img.shields.io/badge/Voir%20le%20repo-181717?style=flat-square&logo=github)](https://github.com/baimuratergeshov/Hotel-Chambord)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide:users.svg?color=%238B5CF6" height="22" align="top" alt="" /> Gestion des salariés
+Application **CRUD** avec base **MySQL**.
+
+[![Repo](https://img.shields.io/badge/Voir%20le%20repo-181717?style=flat-square&logo=github)](https://github.com/baimuratergeshov/salaries_chambord)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide:clipboard-list.svg?color=%238B5CF6" height="22" align="top" alt="" /> Suivi des stagiaires
+Tableau de bord en **MVC** pour le suivi de stagiaires.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MVC](https://img.shields.io/badge/Architecture-MVC-8B5CF6?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%238B5CF6" height="26" align="top" alt="" /> Pont Python ↔ PHP
+Échange de données **JSON** entre deux langages.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### <img src="https://api.iconify.design/lucide:globe.svg?color=%238B5CF6" height="22" align="top" alt="" /> Portfolio
+Site personnel en HTML5, Tailwind et JavaScript natif : 100 % navigable au clavier, contrastes **WCAG AA**, respect de `prefers-reduced-motion`, pages *Stage* et *Veille technologique*.
+
+[![Voir le portfolio](https://img.shields.io/badge/Voir%20le%20portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://baimuratergeshov.github.io)
+[![Repo](https://img.shields.io/badge/Code%20source-181717?style=flat-square&logo=github)](https://github.com/baimuratergeshov/baimuratergeshov.github.io)
+
+</td>
+</tr>
+</table>
+
+### <img src="https://api.iconify.design/lucide:wrench.svg?color=%238B5CF6" height="22" align="top" alt="" /> Adyl Plombier
+Site complet en **MVC** avec panneau d'administration pour un plombier d'urgence. **En ligne depuis 2026**, réalisé lors de mon stage.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -125,6 +206,6 @@ Je cherche activement un **stage de 2e année** en développement web / applicat
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/main/assets/footer.svg" alt="Merci de ta visite" width="100%" />
+<img src="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/main/assets/footer.svg?v=2" alt="Merci de ta visite" width="100%" />
 
 </div>
