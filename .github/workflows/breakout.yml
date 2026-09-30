@@ -1,4 +1,4 @@
-name: Generate Arcade Contribution Graphs
+name: Generate Contribution Game
 
 on:
   schedule:
@@ -18,11 +18,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate pacman and breakout graphs
+      - name: Generate breakout graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "pacman,breakout"
+          games: "breakout"
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

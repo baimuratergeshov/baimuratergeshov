@@ -97,15 +97,9 @@ Tableau de bord en **MVC** pour le suivi de stagiaires.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MVC](https://img.shields.io/badge/Architecture-MVC-8B5CF6?style=flat-square)
 
-#### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%238B5CF6" height="26" align="top" alt="" /> Mes contributions, version arcade
+#### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%238B5CF6" height="26" align="top" alt="" /> Mes contributions
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/output/pacman-contribution-graph.svg" width="100%" />
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/output/breakout-contribution-graph-dark.svg">
