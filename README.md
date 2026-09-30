@@ -1,7 +1,6 @@
-<!-- Header animé -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/main/assets/header.svg?v=2" alt="Baimurat Ergeshov, Étudiant BTS SIO SLAM, développeur web" width="100%" />
+<img src="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/main/assets/header.svg?v=3" alt="Baimurat Ergeshov, étudiant en BTS SIO option SLAM" width="100%" />
 
 <br/>
 
@@ -15,39 +14,39 @@
 
 </div>
 
-### <img src="https://api.iconify.design/lucide:user-round.svg?color=%238B5CF6" height="26" align="top" alt="" /> À propos de moi
+### <img src="https://api.iconify.design/lucide:user-round.svg?color=%238B5CF6" height="26" align="top" alt="" /> À propos
+
+Bonjour et bienvenue sur mon profil. Je suis étudiant en BTS SIO, option SLAM, et j'apprends chaque jour un peu plus le développement web et applicatif.
 
 ```php
 <?php
 $baimurat = [
-    'nom'        => 'Baimurat Ergeshov',
-    'formation'  => 'BTS SIO, option SLAM (Solutions Logicielles et Applications Métiers)',
-    'lieu'       => 'Vert-Saint-Denis (77)',
-    'approche'   => 'Comprendre les fondamentaux plutôt que copier des solutions',
-    'architecture' => 'MVC',
-    'côté design' => ['Figma', 'Photoshop'],
-    'cherche'    => 'Stage de 2e année',
-    'statut'     => 'Focusing',
+    'nom'       => 'Baimurat Ergeshov',
+    'formation' => 'BTS SIO, option SLAM',
+    'lieu'      => 'Vert-Saint-Denis (77)',
+    'objectif'  => 'Comprendre les bases avant de les utiliser',
+    'cherche'   => 'Un stage de 2e année',
+    'statut'    => 'En apprentissage',
 ];
 ```
 
-- <img src="https://api.iconify.design/lucide:brain.svg?color=%238B5CF6" height="18" align="top" alt="" /> J'aime comprendre **comment** et **pourquoi** les choses fonctionnent avant de les utiliser.
-- <img src="https://api.iconify.design/lucide:layers.svg?color=%238B5CF6" height="18" align="top" alt="" /> Je structure mes projets en **MVC** avec une attention particulière à la **sécurité** (requêtes préparées, tokens CSRF, validation des entrées, hachage bcrypt).
-- <img src="https://api.iconify.design/lucide:accessibility.svg?color=%238B5CF6" height="18" align="top" alt="" /> Sensible à l'**accessibilité numérique** (WCAG AA, navigation clavier, `prefers-reduced-motion`) : mon portfolio en est l'application concrète, et j'y documente ma veille technologique sur le sujet.
-- <img src="https://api.iconify.design/lucide:palette.svg?color=%238B5CF6" height="18" align="top" alt="" /> Je fais le lien entre le code et le design avec **Figma** et **Photoshop**.
-- <img src="https://api.iconify.design/lucide:search.svg?color=%238B5CF6" height="18" align="top" alt="" /> Notions de **SEO / Schema.org** et de **responsive design**.
+- <img src="https://api.iconify.design/lucide:brain.svg?color=%238B5CF6" height="18" align="top" alt="" /> J'essaie de comprendre **comment** et **pourquoi** les choses fonctionnent avant de les utiliser.
+- <img src="https://api.iconify.design/lucide:layers.svg?color=%238B5CF6" height="18" align="top" alt="" /> Je m'exerce à structurer mes projets en **MVC** et à soigner la **sécurité** (requêtes préparées, tokens CSRF, validation des entrées, hachage bcrypt).
+- <img src="https://api.iconify.design/lucide:accessibility.svg?color=%238B5CF6" height="18" align="top" alt="" /> L'**accessibilité numérique** m'intéresse : j'essaie de l'appliquer dans mon portfolio et j'en fais le sujet de ma veille technologique.
+- <img src="https://api.iconify.design/lucide:palette.svg?color=%238B5CF6" height="18" align="top" alt="" /> J'aime aussi la partie design, avec **Figma** et **Photoshop**.
+- <img src="https://api.iconify.design/lucide:search.svg?color=%238B5CF6" height="18" align="top" alt="" /> Je découvre le **SEO / Schema.org** et le **responsive design**.
 
 ### <img src="https://api.iconify.design/lucide:wrench.svg?color=%238B5CF6" height="26" align="top" alt="" /> Compétences
 
 <div align="center">
 
-#### Backend & Bases de données
+#### Backend et bases de données
 <img src="https://skillicons.dev/icons?i=php,mysql,python,linux&theme=dark" alt="Backend" />
 
 #### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" alt="Frontend" />
 
-#### Outils & Design
+#### Outils et design
 <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,vscode,kotlin&theme=dark" alt="Outils" />
 
 </div>
@@ -60,7 +59,7 @@ $baimurat = [
 | **API** | Consommation d'API REST, manipulation de JSON |
 | **Sécurité** | Requêtes préparées, CSRF, validation des entrées, bcrypt |
 | **Spécialités** | SEO / Schema.org, responsive design, accessibilité |
-| **Bases** | Python, Linux, Kotlin (en apprentissage) |
+| **Notions** | Python, Linux, Kotlin (en apprentissage) |
 
 ### <img src="https://api.iconify.design/lucide:rocket.svg?color=%238B5CF6" height="26" align="top" alt="" /> Projets
 
@@ -68,8 +67,8 @@ $baimurat = [
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:wrench.svg?color=%238B5CF6" height="22" align="top" alt="" /> Adyl Plombier
-Site complet en **MVC** avec panneau d'administration pour un plombier d'urgence. **En ligne depuis 2026**, réalisé lors de mon stage.
+#### <img src="https://api.iconify.design/lucide:wrench.svg?color=%238B5CF6" height="22" align="top" alt="" /> Adyl Plombier
+Site en **MVC** avec panneau d'administration pour un plombier d'urgence, mis en ligne en 2026 et réalisé pendant mon stage.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -78,8 +77,8 @@ Site complet en **MVC** avec panneau d'administration pour un plombier d'urgence
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:clapperboard.svg?color=%238B5CF6" height="22" align="top" alt="" /> MovieDB
-Catalogue de films qui consomme l'**API TMDb** (REST / JSON).
+#### <img src="https://api.iconify.design/lucide:clapperboard.svg?color=%238B5CF6" height="22" align="top" alt="" /> MovieDB
+Catalogue de films qui utilise l'**API TMDb** (REST / JSON).
 
 [![Repo](https://img.shields.io/badge/Voir%20le%20repo-181717?style=flat-square&logo=github)](https://github.com/baimuratergeshov/movieDB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -90,19 +89,19 @@ Catalogue de films qui consomme l'**API TMDb** (REST / JSON).
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:hotel.svg?color=%238B5CF6" height="22" align="top" alt="" /> Hôtel Chambord
+#### <img src="https://api.iconify.design/lucide:hotel.svg?color=%238B5CF6" height="22" align="top" alt="" /> Hôtel Chambord
 Site d'hôtel multi-pages réalisé **en équipe**.
 
 [![Repo](https://img.shields.io/badge/Voir%20le%20repo-181717?style=flat-square&logo=github)](https://github.com/baimuratergeshov/Hotel-Chambord)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:users.svg?color=%238B5CF6" height="22" align="top" alt="" /> Gestion des salariés
-Application **CRUD** avec base **MySQL**.
+#### <img src="https://api.iconify.design/lucide:users.svg?color=%238B5CF6" height="22" align="top" alt="" /> Gestion des salariés
+Application **CRUD** avec une base **MySQL**.
 
 [![Repo](https://img.shields.io/badge/Voir%20le%20repo-181717?style=flat-square&logo=github)](https://github.com/baimuratergeshov/salaries_chambord)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -113,8 +112,8 @@ Application **CRUD** avec base **MySQL**.
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:clipboard-list.svg?color=%238B5CF6" height="22" align="top" alt="" /> Suivi des stagiaires
-Tableau de bord en **MVC** pour le suivi de stagiaires.
+#### <img src="https://api.iconify.design/lucide:clipboard-list.svg?color=%238B5CF6" height="22" align="top" alt="" /> Suivi des stagiaires
+Tableau de bord en **MVC** pour suivre des stagiaires.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MVC](https://img.shields.io/badge/Architecture-MVC-8B5CF6?style=flat-square)
@@ -122,7 +121,7 @@ Tableau de bord en **MVC** pour le suivi de stagiaires.
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%238B5CF6" height="26" align="top" alt="" /> Pont Python ↔ PHP
+#### <img src="https://api.iconify.design/lucide:repeat.svg?color=%238B5CF6" height="22" align="top" alt="" /> Pont Python et PHP
 Échange de données **JSON** entre deux langages.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -133,8 +132,8 @@ Tableau de bord en **MVC** pour le suivi de stagiaires.
 <tr>
 <td colspan="2" valign="top">
 
-### <img src="https://api.iconify.design/lucide:globe.svg?color=%238B5CF6" height="22" align="top" alt="" /> Portfolio
-Site personnel en HTML5, Tailwind et JavaScript natif : 100 % navigable au clavier, contrastes **WCAG AA**, respect de `prefers-reduced-motion`, pages *Stage* et *Veille technologique*.
+#### <img src="https://api.iconify.design/lucide:globe.svg?color=%238B5CF6" height="22" align="top" alt="" /> Portfolio
+Mon site personnel en HTML5, Tailwind et JavaScript natif. J'y ai porté une attention particulière à la navigation au clavier, aux contrastes (**WCAG AA**) et à `prefers-reduced-motion`. Il contient aussi mes pages *Stage* et *Veille technologique*.
 
 [![Voir le portfolio](https://img.shields.io/badge/Voir%20le%20portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://baimuratergeshov.github.io)
 [![Repo](https://img.shields.io/badge/Code%20source-181717?style=flat-square&logo=github)](https://github.com/baimuratergeshov/baimuratergeshov.github.io)
@@ -143,62 +142,46 @@ Site personnel en HTML5, Tailwind et JavaScript natif : 100 % navigable au clavi
 </tr>
 </table>
 
-### <img src="https://api.iconify.design/lucide:wrench.svg?color=%238B5CF6" height="22" align="top" alt="" /> Adyl Plombier
-Site complet en **MVC** avec panneau d'administration pour un plombier d'urgence. **En ligne depuis 2026**, réalisé lors de mon stage.
+### <img src="https://api.iconify.design/lucide:chart-column.svg?color=%238B5CF6" height="26" align="top" alt="" /> Statistiques GitHub
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<div align="center">
 
-#### <img src="https://api.iconify.design/lucide:clapperboard.svg?color=%238B5CF6" height="22" align="top" alt="" /> MovieDB
-Catalogue de films qui consomme l'**API TMDb** (REST / JSON).
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=baimuratergeshov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Statistiques GitHub" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=baimuratergeshov&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Langages les plus utilisés" />
 
-[![Repo](https://img.shields.io/badge/Voir%20le%20repo-181717?style=flat-square&logo=github)](https://github.com/baimuratergeshov/movieDB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![API](https://img.shields.io/badge/API-TMDb-01B4E4?style=flat-square)
+<br/>
 
-#### <img src="https://api.iconify.design/lucide:hotel.svg?color=%238B5CF6" height="22" align="top" alt="" /> Hôtel Chambord
-Site d'hôtel multi-pages réalisé **en équipe**.
+<img src="https://streak-stats.demolab.com?user=baimuratergeshov&theme=tokyonight&hide_border=true" alt="Série de contributions" />
 
-[![Repo](https://img.shields.io/badge/Voir%20le%20repo-181717?style=flat-square&logo=github)](https://github.com/baimuratergeshov/Hotel-Chambord)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+</div>
 
-#### <img src="https://api.iconify.design/lucide:users.svg?color=%238B5CF6" height="22" align="top" alt="" /> Gestion des salariés
-Application **CRUD** avec base **MySQL**.
+#### <img src="https://api.iconify.design/lucide:activity.svg?color=%238B5CF6" height="22" align="top" alt="" /> Activité
 
-[![Repo](https://img.shields.io/badge/Voir%20le%20repo-181717?style=flat-square&logo=github)](https://github.com/baimuratergeshov/salaries_chambord)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
+  <img src="https://ghchart.rshah.org/8B5CF6/baimuratergeshov" alt="Calendrier de contributions" width="90%" />
+</div>
 
-#### <img src="https://api.iconify.design/lucide:clipboard-list.svg?color=%238B5CF6" height="22" align="top" alt="" /> Suivi des stagiaires
-Tableau de bord en **MVC** pour le suivi de stagiaires.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MVC](https://img.shields.io/badge/Architecture-MVC-8B5CF6?style=flat-square)
-
-#### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%238B5CF6" height="26" align="top" alt="" /> Mes contributions
+### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%238B5CF6" height="26" align="top" alt="" /> Mes contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/output/breakout-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/output/breakout-contribution-graph.svg">
-  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/output/breakout-contribution-graph.svg" width="100%" />
+  <img alt="Graphe de contributions" src="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/output/breakout-contribution-graph.svg" width="100%" />
 </picture>
 
 </div>
 
 ### <img src="https://api.iconify.design/lucide:book-open.svg?color=%238B5CF6" height="26" align="top" alt="" /> Veille technologique
 
-Ma veille porte sur l'**accessibilité numérique** : comment rendre le web utilisable par tous (contrastes, clavier, lecteurs d'écran, mouvements réduits). Retrouve le détail sur mon [portfolio](https://baimuratergeshov.github.io/veille.html).
+Ma veille porte sur l'**accessibilité numérique** : rendre le web utilisable par le plus grand nombre (contrastes, clavier, lecteurs d'écran, mouvements réduits). Vous pouvez en retrouver le détail sur mon [portfolio](https://baimuratergeshov.github.io/veille.html).
 
 ### <img src="https://api.iconify.design/lucide:mail.svg?color=%238B5CF6" height="26" align="top" alt="" /> Me contacter
 
 <div align="center">
 
-Je cherche activement un **stage de 2e année** en développement web / applicatif.
+Je suis à la recherche d'un **stage de 2e année** en développement web ou applicatif. N'hésitez pas à m'écrire, je serai ravi d'échanger avec vous.
 
 <a href="mailto:baimurat.ergeshov123@gmail.com"><img src="https://img.shields.io/badge/Email-baimurat.ergeshov123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://baimuratergeshov.github.io"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -206,6 +189,6 @@ Je cherche activement un **stage de 2e année** en développement web / applicat
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/main/assets/footer.svg?v=2" alt="Merci de ta visite" width="100%" />
+<img src="https://raw.githubusercontent.com/baimuratergeshov/baimuratergeshov/main/assets/footer.svg?v=3" alt="Merci de votre visite" width="100%" />
 
 </div>
